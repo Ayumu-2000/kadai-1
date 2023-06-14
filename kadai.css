@@ -47,21 +47,21 @@ mein {
 
 .gazou-imergi-1{
   height: 150px;
-  background-image: url();
+  background-image: url(img/flow01.png);
   background-position: bottom;
   background-size: cover;
 }
 
 .gazou-imergi-2{
   height: 150px;
-  background-image: url();
+  background-image: url(img/flow02.png);
   background-position: bottom;
   background-size: cover;
 }
 
 .gazou-imergi-3{
   height: 150px;
-  background-image: url();
+  background-image: url(img/flow03.png);
   background-position: bottom;
   background-size: cover;
 }
